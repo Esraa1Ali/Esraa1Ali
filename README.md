@@ -20,10 +20,5 @@ I am a passionate Web & Software Developer focused on building modern, responsiv
 
 ---
 
-### 📊 GitHub Stats
-![Esraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esraa1Ali&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa1Ali&layout=compact&theme=radical)
-
----
 
 📬 **How to reach me:** [Your LinkedIn Profile](https://linkedin.com)
